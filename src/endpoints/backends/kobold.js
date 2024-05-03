@@ -115,7 +115,9 @@ router.post('/generate', jsonParser, async function (request, response_generate)
                 }
 
                 const data = await response.json();
-                console.log('Endpoint response:', data);
+                console.log('Endpoint response Kobold:', data);
+                console.log('Endpoint response :', response_generate.send(data));
+
                 return response_generate.send(data);
             }
         } catch (error) {
