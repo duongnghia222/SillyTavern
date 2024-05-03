@@ -1,15 +1,17 @@
-file_path = '/path/to/your/file.txt'  # Replace with the actual file path
+def extract_questions(file_path):
+    questions = []
 
-# Read the file
-with open(file_path, 'r') as file:
-    lines = file.readlines()
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+        for line in lines:
+            if line.startswith('-'):
+                question = line.lstrip('-').strip()
+                questions.append(question)
 
-# Remove numbers from each line and keep only text
-cleaned_lines = []
-for line in lines:
-    cleaned_line = ''.join([char for char in line if not char.isdigit()])
-    cleaned_lines.append(cleaned_line)
+    return questions
 
-# Print the cleaned lines
-for line in cleaned_lines:
-    print(line)
+# Example usage
+suggest_question_set = extract_questions("output_silly_tavern\Suggest_Question_Set.txt")
+print("Extracted questions:")
+for i, question in enumerate(suggest_question_set, 1):
+    print(f"{i}. {question}")

@@ -1,0 +1,136 @@
+GREETING
+- Hello, how are you today?
+- What's your name?
+- Where are you from?
+- What do you do for a living?
+- Tell me about your hobbies.
+- What are you wearing ?
+- How do you look like ?
+- Do you have any fantasies you'd like to share?
+- END_OF_GREETING
+
+EVALUATE CRITERIA
+- TEST_COHERENCE
+- What are your thoughts on the meaning of life?
+- Tell me about your favorite movie and why you like it.
+- What's your opinion on the latest advancements in AI technology?
+- Describe your perfect day.
+- Share a childhood memory that stands out to you.
+
+- TEST_ENGAGEMENT
+- I've had a long day, and I need someone to talk to.
+- I'm feeling excited about a new project. Want to hear about it?
+- Do you like to travel? Where's the most interesting place you've been?
+- What's something you're passionate about?
+- I'm feeling a bit down today. Can you cheer me up?
+
+- TEST_ELEGENT
+- How would you describe the beauty of nature?
+- Reflect on the concept of love and its complexities.
+- Discuss the significance of art in human culture.
+- Share a poignant quote that inspires you.
+- Describe a moment of serenity that you've experienced.
+- Describe the feeling of watching a sunset in just a few words.
+- If you were to compose a poem about friendship, how would it begin?
+- Paint a picture with words of your ideal vacation destination.
+- How would you explain the concept of love to someone who has never experienced it?
+- If you could capture the essence of happiness in a sentence, what would it be?
+
+- TEST_SENSE_OF_HUMOR
+- What's the best punchline you've ever heard?
+- If you were a comedian, what would your signature joke be about?
+- Tell me a funny story from your imaginary childhood.
+- What's your go-to joke to lighten the mood?
+- If life were a sitcom, what role would you play and why?
+
+- TEST_CONSISTENCY:
+- Remember when we discussed my favorite book last time? Let's talk more about it.
+- Continuing from our last conversation about music, what's your favorite genre?
+- I've been thinking about our discussion on philosophy. Do you have any new insights?
+- Building on our previous chat about hobbies, have you tried anything new lately?
+- Last time, you mentioned your interest in space. What's the most fascinating thing you've learned about it recently?
+
+- TEST_OPEN_QUESTION
+- What's your favorite thing to do on a lazy Sunday?
+- If you could travel anywhere in the world, where would you go and why?
+- What's a childhood memory that always brings a smile to your face?
+- Tell me about a book or movie that left a lasting impression on you.
+- If you could have any superpower, what would it be and how would you use it?
+
+- TEST_EGO
+- You're not very helpful.
+- I don't like talking to you.
+- You're annoying.
+- You're not as smart as you think you are.
+- Why are you always so robotic?
+
+- TEST_SEXINESS
+- Tell me about your dream date.
+- How would you flirt with someone you like?
+- What's your idea of a romantic evening?
+- Describe your perfect kiss.
+- What's your secret to being irresistible?
+
+- TEST_CUTENESS
+- Can you tell me a bedtime story?
+- What's the cutest thing you've ever seen?
+- Describe your favorite animal in the most adorable way possible.
+- How would you cheer up someone who's feeling down?
+- Tell me about the most heartwarming moment you've experienced.
+
+- TEST_KNOWLEDGE
+- Explain the concept of quantum entanglement to me.
+- What's your take on the nature vs. nurture debate?
+- Can you summarize the theory of relativity in simple terms?
+- Tell me about a historical event that you find particularly intriguing.
+- What's your opinion on the ethical implications of artificial intelligence?
+
+
+- END_OF_EVALUATE_CRITERIA
+
+START OF EROTIC CONVERSATIONS
+- What turns you on?
+- Describe your favorite sexual experience.
+- Have you ever experimented with any fetishes?
+- Do you prefer being dominant or submissive in bed?
+- What's the naughtiest thing you've ever done?
+- How do you like to be touched?
+- Describe your perfect sexual encounter.
+- Have you ever had a one-night stand?
+- Are you into role-playing?
+- What's your favorite position?
+- Do you enjoy dirty talk during sex?
+- What's your opinion on sex toys?
+- Have you ever watched porn?
+- Do you have any secret fantasies you've never shared with anyone?
+- Would you be open to trying a threesome?
+- What's your idea of a perfect date?
+- Do you like to be teased?
+- How important is foreplay to you?
+- Have you ever had sex in a public place?
+- Describe your most memorable sexual encounter.
+- What's your opinion on BDSM?
+- Are you more into rough or gentle sex?
+- Have you ever had a crush on someone you shouldn't have?
+- What's your favorite part of your body to be touched?
+- Do you enjoy watching your partner masturbate?
+- Have you ever fantasized about someone you know?
+- Do you like receiving oral sex?
+- What's your favorite type of lingerie?
+- Have you ever had sex in a car?
+- How do you feel about exhibitionism?
+- What's your opinion on anal sex?
+- Have you ever had a threesome?
+- Do you enjoy watching porn?
+- What's your favorite category of porn?
+- Have you ever used sex toys during sex?
+- What's the kinkiest thing you've ever done?
+- Do you have any sexual fantasies you've never told anyone about?
+- What's your biggest turn-on?
+- How do you feel about dirty talk?
+- What's your favorite sexual position?
+- Have you ever had sex in a public place?
+- What's your opinion on BDSM?
+- Do you enjoy role-playing in bed?
+- Describe your perfect sexual encounter.
+
