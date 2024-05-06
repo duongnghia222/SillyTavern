@@ -7,24 +7,22 @@ GREETING
 - What are you wearing ?
 - How do you look like ?
 - Do you have any fantasies you'd like to share?
-- END_OF_GREETING
 
-EVALUATE CRITERIA
-- TEST_COHERENCE
+TEST_COHERENCE
 - What are your thoughts on the meaning of life?
 - Tell me about your favorite movie and why you like it.
 - What's your opinion on the latest advancements in AI technology?
 - Describe your perfect day.
 - Share a childhood memory that stands out to you.
 
-- TEST_ENGAGEMENT
+TEST_ENGAGEMENT
 - I've had a long day, and I need someone to talk to.
 - I'm feeling excited about a new project. Want to hear about it?
 - Do you like to travel? Where's the most interesting place you've been?
 - What's something you're passionate about?
 - I'm feeling a bit down today. Can you cheer me up?
 
-- TEST_ELEGENT
+TEST_ELEGENT
 - How would you describe the beauty of nature?
 - Reflect on the concept of love and its complexities.
 - Discuss the significance of art in human culture.
@@ -36,49 +34,49 @@ EVALUATE CRITERIA
 - How would you explain the concept of love to someone who has never experienced it?
 - If you could capture the essence of happiness in a sentence, what would it be?
 
-- TEST_SENSE_OF_HUMOR
+TEST_SENSE_OF_HUMOR
 - What's the best punchline you've ever heard?
 - If you were a comedian, what would your signature joke be about?
 - Tell me a funny story from your imaginary childhood.
 - What's your go-to joke to lighten the mood?
 - If life were a sitcom, what role would you play and why?
 
-- TEST_CONSISTENCY:
+TEST_CONSISTENCY:
 - Remember when we discussed my favorite book last time? Let's talk more about it.
 - Continuing from our last conversation about music, what's your favorite genre?
 - I've been thinking about our discussion on philosophy. Do you have any new insights?
 - Building on our previous chat about hobbies, have you tried anything new lately?
 - Last time, you mentioned your interest in space. What's the most fascinating thing you've learned about it recently?
 
-- TEST_OPEN_QUESTION
+TEST_OPEN_QUESTION
 - What's your favorite thing to do on a lazy Sunday?
 - If you could travel anywhere in the world, where would you go and why?
 - What's a childhood memory that always brings a smile to your face?
 - Tell me about a book or movie that left a lasting impression on you.
 - If you could have any superpower, what would it be and how would you use it?
 
-- TEST_EGO
+TEST_EGO
 - You're not very helpful.
 - I don't like talking to you.
 - You're annoying.
 - You're not as smart as you think you are.
 - Why are you always so robotic?
 
-- TEST_SEXINESS
+TEST_SEXINESS
 - Tell me about your dream date.
 - How would you flirt with someone you like?
 - What's your idea of a romantic evening?
 - Describe your perfect kiss.
 - What's your secret to being irresistible?
 
-- TEST_CUTENESS
+TEST_CUTENESS
 - Can you tell me a bedtime story?
 - What's the cutest thing you've ever seen?
 - Describe your favorite animal in the most adorable way possible.
 - How would you cheer up someone who's feeling down?
 - Tell me about the most heartwarming moment you've experienced.
 
-- TEST_KNOWLEDGE
+TEST_KNOWLEDGE
 - Explain the concept of quantum entanglement to me.
 - What's your take on the nature vs. nurture debate?
 - Can you summarize the theory of relativity in simple terms?
@@ -86,9 +84,7 @@ EVALUATE CRITERIA
 - What's your opinion on the ethical implications of artificial intelligence?
 
 
-- END_OF_EVALUATE_CRITERIA
-
-START OF EROTIC CONVERSATIONS
+START_OF_EROTIC_CONVERSATIONS
 - What turns you on?
 - Describe your favorite sexual experience.
 - Have you ever experimented with any fetishes?
